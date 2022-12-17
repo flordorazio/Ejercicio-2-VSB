@@ -1,0 +1,48 @@
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    height: 30px;
+    background-color:grey;
+    border-radius: 100px;
+    padding: 3px;
+    
+    
+    text-align: right;
+    
+    
+}
+.Progreso{
+    width: 10%;
+    background-color: deeppink;
+    color: white;
+    border-radius: 100px;
+    padding: 3px;
+    
+}
+.Progreso2{
+    width: 25%;
+    background-color: deeppink;
+    color: white;
+    border-radius: 100px;
+    padding: 3px;
+}
+.Progreso3{
+    width: 50%;
+    background-color: deeppink;
+    color: white;
+    border-radius: 100px;
+    padding: 3px;
+}.Progreso4{
+    width: 75%;
+    background-color: deeppink;
+    color: white;
+    border-radius: 100px;
+    padding: 3px;
+}.Progreso5{
+    width: 90%;
+    background-color: deeppink;
+    color: white;
+    border-radius: 100px;
+    padding: 3px;
+}
